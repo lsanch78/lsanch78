@@ -8,7 +8,7 @@
 
 # Hey, I'm Luis
 
-You may also know me as the gigacracked CTO of Google, Anthropic, Amazon, Meta, and Netflix (don't verify). Is AI creating gaps faster than we can possibly hope to fill or are we experiencing the birth of another abstraction layer? Stay tuned to find out! :D
+You may also know me as the CTO of Google, Anthropic, Amazon, Meta, and Netflix (don't verify). Is AI creating gaps faster than we can possibly hope to fill or are we experiencing the birth of another abstraction layer? Stay tuned to find out! :D
 
 Currently building [Settled](https://luisbuenrostro.dev/blog/settled), a React Native roommate coordination app with E2E encryption, smart bill splitting and real-time chat. App Stores incoming.
 
