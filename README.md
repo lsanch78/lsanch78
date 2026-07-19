@@ -13,6 +13,7 @@ You may also know me as the gigacracked CTO of Google, Anthropic, Amazon, Meta, 
 Currently building [Settled](https://luisbuenrostro.dev/blog/settled), a React Native roommate coordination app with E2E encryption, smart bill splitting and real-time chat. App Stores incoming.
 
 Warning: I compose lo-fi theme songs for my applications. 
+
 ---
 
 ## Projects
