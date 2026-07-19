@@ -8,10 +8,11 @@
 
 # Hey, I'm Luis
 
-AI-forward Full-Stack Engineer based in Southern California. I build fast, architect intentionally, and write the tests that prove it works.
+You may also know me as the gigacracked CTO of Google, Anthropic, Amazon, Meta, and Netflix (don't verify). Is AI creating gaps faster than we can possibly hope to fill or are we experiencing the birth of another abstraction layer? Stay tuned to find out! :D
 
-Currently building [Settled](https://luisbuenrostro.dev/blog/settled), a React Native roommate coordination app with E2E encryption, smart bill splitting, and App Store beta incoming.
+Currently building [Settled](https://luisbuenrostro.dev/blog/settled), a React Native roommate coordination app with E2E encryption, smart bill splitting and real-time chat. App Stores incoming.
 
+Warning: I compose lo-fi theme songs for my applications. 
 ---
 
 ## Projects
@@ -32,7 +33,6 @@ Currently building [Settled](https://luisbuenrostro.dev/blog/settled), a React N
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
