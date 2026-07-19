@@ -21,7 +21,7 @@ Warning: I compose lo-fi theme songs for my applications.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [Fun Job Hunt](https://fjobhunt.com) | AI-powered resume tailoring SaaS | React, TypeScript, Supabase, Stripe |
-| [Cookful](https://cookful.ca) | AI recipe platform with real-time pantry scanner | React, Python, YOLOv11, PostgreSQL |
+| [Cookful](https://www.luisbuenrostro.dev/blog/cookful-part-1) | AI recipe platform with real-time pantry scanner | React, Python, YOLOv11, PostgreSQL |
 | [Settled](https://luisbuenrostro.dev/blog/settled) | Roommate coordination mobile app | React Native, Supabase, TypeScript |
 
 ---
